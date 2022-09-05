@@ -79,6 +79,9 @@
 }
 
 .button {
+    font-family: "Roboto-Regular";
+    font-style: normal;
+    font-weight: 400;
     background: #FFFFFF;
     border: 2px solid #F13C6E;
     border-radius: 40px;
@@ -161,6 +164,8 @@
 }
 
 .button_sale {
+    font-family: "Roboto-Regular";
+    font-weight: 400;
     background: transparent;
     border: 2px solid #FFFFFF;
     border-radius: 40px;
@@ -254,6 +259,7 @@
     margin-left: 63px;
     margin-top: 20px;
     color: #FFFFFF;
+    border: none;
 }
 
 .button_goods a{
