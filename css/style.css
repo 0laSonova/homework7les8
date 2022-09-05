@@ -110,10 +110,6 @@
     margin: 0 auto;  
 }
 
-.menu_header{
-    
-}
-
 .menu_header li a {
     font-family: "Roboto-Regular";
     font-weight: 400;
@@ -163,7 +159,6 @@
     padding: 50px 0;
     width: 308px;
 }
-
 
 .button_sale {
     background: transparent;
@@ -218,7 +213,6 @@
 .box img {
     width: 125px;
     height: 166px;
-
 }
 
 .img_goods {
@@ -328,7 +322,6 @@
     background-color: #F13C6E;
     margin-left: 25px;
 }
-
 
 .title_ourshops {
     font-family: "Roboto-Regular";
@@ -455,8 +448,6 @@
     color: #828282;
     text-decoration: none;
 }
-
-
  /* FOOTER END */
 
 
